@@ -32,6 +32,7 @@ This is a live and open listing of known FHIR bulk data implementations per the 
 - **SMART Health IT**
     - **Client** [https://github.com/smart-on-fhir/sample-apps-stu3/tree/master/fhir-downloader](https://github.com/smart-on-fhir/sample-apps-stu3/tree/master/fhir-downloader)
     - **Server** [https://bulk-data.smarthealthit.org/](https://bulk-data.smarthealthit.org/)
+- **Medplum** [https://www.medplum.com/docs/api/fhir/operations/bulk-fhir](https://www.medplum.com/docs/api/fhir/operations/bulk-fhir)
 
 
 ### Editing this list
