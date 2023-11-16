@@ -3,7 +3,7 @@ This is a live and open listing of known FHIR bulk data implementations per the 
 ## Known Implementations
 
 - **Google**
-    - **Google Bulk FHIR client, library, and workflow**: https://github.com/google/bulk_fhir_tools
+    - **Google Bulk FHIR client, library, and workflow**: [https://github.com/google/bulk_fhir_tools](https://github.com/google/bulk_fhir_tools)
     - **Google Cloud Healthcare API** [https://cloud.google.com/blog/topics/healthcare-life-sciences/getting-to-know-the-google-cloud-healthcare-api-part-1](https://cloud.google.com/blog/topics/healthcare-life-sciences/getting-to-know-the-google-cloud-healthcare-api-part-1)
 - **IBM**
     - **Client** [https://github.com/IBM/FHIR](https://github.com/IBM/FHIR)
