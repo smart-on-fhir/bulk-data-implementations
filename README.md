@@ -34,6 +34,8 @@ This is a live and open listing of known FHIR bulk data implementations per the 
     - [Bulk Data Server](https://bulk-data.smarthealthit.org/)
 - **Medplum**
     - [Medplum FHIR server](https://www.medplum.com/docs/api/fhir/operations/bulk-fhir)
+- **CSIRO**
+  - [FHIR Bulk Client for Java](https://github.com/aehrc/fhir-bulk-java)
 
 
 ### Editing this list
